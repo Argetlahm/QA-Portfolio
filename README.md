@@ -1,2 +1,2 @@
 # QA-Portfolio
-Collection of my QA portfolio projects
+Here are some of my QA portfolio projects
